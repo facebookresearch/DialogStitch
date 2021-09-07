@@ -38,7 +38,7 @@ If you find this code useful, consider citing our work:
 Please see `clevr_dialog/` for dataset and code setup for experiments on the multimodal dialog dataset.
 
 
-###License
+### License
 This project is licensed under the license found in the LICENSE file in the root directory of this source tree ([here][license]).
 
 
