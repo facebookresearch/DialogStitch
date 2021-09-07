@@ -1,3 +1,10 @@
+# Copyright (c) Facebook, Inc. and its affiliates.
+# All rights reserved.
+# 
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
+
 # Download CLEVR images.
 # pip install gdown
 # wget https://dl.fbaipublicfiles.com/clevr/CLEVR_v1.0.zip data/
