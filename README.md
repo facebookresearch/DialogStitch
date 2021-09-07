@@ -9,7 +9,7 @@ This repository contain the code for the paper:
 \*=equal contribution
 
 
-###Abstract
+### Abstract
 
 Real-world conversational agents must effectively handle long conversations that span multiple contexts. Such context can be interspersed with chitchat (dialog turns not directly related to the task at hand), and potentially grounded in a multimodal setting. While prior work focused on the above aspects in isolation, there is a lack of a unified framework that studies them together. To overcome this, we propose DialogStitch, a novel framework to seamlessly ‘stitch’ multiple conversations and highlight these desirable traits in a taskoriented dialog. After stitching, our dialogs are provably deeper, contain longer-term dependencies, and span multiple contexts, when compared with the source dialogs—all free of cost without any additional annotations! Though our framework generalizes to a variety of combinations, we demonstrate its benefits in two settings: (a) multimodal, imagegrounded conversations, and, (b) task-oriented dialogs fused with chit-chat conversations. We benchmark state-of-the-art dialog models on our datasets and find accuracy drops of (a) 12% and (b) 45% respectively, indicating the additional challenges in the stitched dialogs.
 
