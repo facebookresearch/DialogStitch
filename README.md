@@ -37,6 +37,8 @@ If you find this code useful, consider citing our work:
 ### Code and Datasets
 Please see `clevr_dialog/` for dataset and code setup for experiments on the multimodal dialog dataset.
 
+Dataset and code for the open-domain dialogs will be released soon!
+
 
 ### License
 This project is licensed under the license found in the LICENSE file in the root directory of this source tree ([here][license]).
